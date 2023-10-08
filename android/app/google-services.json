@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005197857738",
+    "project_id": "mlkit-email-detector",
+    "storage_bucket": "mlkit-email-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005197857738:android:9104d33ad53dbe80983533",
+        "android_client_info": {
+          "package_name": "com.example.mlkit_email_detector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8IvY0XeoWl0JuV9UvYwkVp0mcZKrmY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
